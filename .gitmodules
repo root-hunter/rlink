@@ -1,9 +1,9 @@
 [submodule "driver"]
 	path = driver
 	url = https://github.com/root-hunter/rlink-driver
-[submodule "server"]
-	path = server
-	url = https://github.com/root-hunter/rlink-server
+[submodule "client"]
+	path = client
+	url = https://github.com/root-hunter/rlink-client
 [submodule "core"]
 	path = core
 	url = https://github.com/root-hunter/rlink-core
